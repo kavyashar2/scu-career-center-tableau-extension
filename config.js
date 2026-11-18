@@ -2,13 +2,13 @@ window.CC_KPI_CONFIG = {
   debug: false,
 
   // ONLY user-facing demographic/subgroup quick filters belong here.
-  // Internal filters such as CC Population Tier Final are intentionally excluded.
   watchedFilters: [
     "Sex",
     "Ethnicity IPEDS",
     "Degree",
     "Primary Program",
     "School",
+    " Academic Class"
     "Academic Cluster",
     "Work Authorization",
     "Work Authorization Final"
