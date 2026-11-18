@@ -8,7 +8,7 @@ window.CC_KPI_CONFIG = {
     "Degree",
     "Primary Program",
     "School",
-    "Academic Class"
+    "Academic Class",
     "Academic Cluster",
     "Work Authorization",
     "Work Authorization Final"
@@ -21,9 +21,6 @@ window.CC_KPI_CONFIG = {
 
   dashboardTargets: {
     "Overall Engagement": [
-      "Overall KPI - Subgroup"
-    ],
-    "Overall Engagement Overview": [
       "Overall KPI - Subgroup"
     ],
     "Events": [
